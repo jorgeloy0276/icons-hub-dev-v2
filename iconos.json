@@ -1,0 +1,101 @@
+{
+  "title": "Icons Hub - jorgeloy Version 1.0",
+  "items": [
+    {
+      "n": "YouTube",
+      "u": "https://www.youtube.com",
+      "i": "",
+      "c": "#ff3b4e"
+    },
+    {
+      "n": "Google",
+      "u": "https://www.google.com",
+      "i": "",
+      "c": "#4285f4"
+    },
+    {
+      "n": "Gemini",
+      "u": "https://gemini.google.com/app",
+      "i": "",
+      "c": "#25d366"
+    },
+    {
+      "n": "Gmail",
+      "u": "https://mail.google.com",
+      "i": "",
+      "c": "#ec4899"
+    },
+    {
+      "n": "WhatsApp",
+      "u": "https://web.whatsapp.com",
+      "i": "",
+      "c": "#25d366"
+    },
+    {
+      "n": "Facebook",
+      "u": "https://www.facebook.com",
+      "i": "",
+      "c": "#4285f4"
+    },
+    {
+      "n": "Maps",
+      "u": "https://maps.google.com",
+      "i": "",
+      "c": "#f59e0b"
+    },
+    {
+      "n": "Drive",
+      "u": "https://drive.google.com",
+      "i": "",
+      "c": "#06b6d4"
+    },
+    {
+      "n": "Byethost cPanel",
+      "u": "https://cpanel.byethost.com/",
+      "i": "",
+      "c": "#f59e0b"
+    },
+    {
+      "n": "Udemy",
+      "u": "https://www.udemy.com/courses",
+      "i": "",
+      "c": "#a855f7"
+    },
+    {
+      "n": "GoogieHost",
+      "u": "https://client.googiehost.com/clientarea.php",
+      "i": "",
+      "c": "#ec4899"
+    },
+    {
+      "n": "Aiven Databases Online",
+      "u": "https://console.aiven.io/login",
+      "i": "",
+      "c": "#ff3b4e"
+    },
+    {
+      "n": "Render Online Web",
+      "u": "https://dashboard.render.com/",
+      "i": "",
+      "c": "#a855f7"
+    },
+    {
+      "n": "BREVO SMTP Mails",
+      "u": "https://login.brevo.com/",
+      "i": "",
+      "c": "#25d366"
+    },
+    {
+      "n": "Voice Recorder",
+      "u": "https://voice-record-imlh.onrender.com",
+      "i": "",
+      "c": "#ff3b4e"
+    },
+    {
+      "n": "Krypton Logic Web Site",
+      "u": "https://krypton-site.onrender.com",
+      "i": "",
+      "c": "#06b6d4"
+    }
+  ]
+}

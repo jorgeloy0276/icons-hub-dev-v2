@@ -1,0 +1,1 @@
+Guarda aqui tus logos (svg/png). Luego en el campo Icono escribe, por ejemplo: img/linkedin.svg
